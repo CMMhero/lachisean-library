@@ -58,6 +58,17 @@ admin@email.com
 4. 27923 - Arif Novianto
 ```
 
+## 🚀 Feature/fungsi tambahan
+- Pada halaman home, terdapat indikasi rating dan jumlah review pada setiap buku.
+- Tombol filter kategori pada halaman home bersifat dinamis. Bila admin menambahkan kategori baru, maka tombol baru akan muncul.
+- Bila hasil search/buku dengan kategori yang telah difilter tidak ada, maka akan ada tulisan 'No books found'.
+- Pada halaman detail buku, terdapat bagian buku rekomendasi, dimana rekomendasi diambil berdasarkan judul, author, atau kategori yang sama.
+- Review yang dapat diberikan user (pengguna yang telah login) berupa tulisan dan rating (1-5).
+- Terdapat indikator waktu review dan tanda '(edited)' bila review sudah pernah diedit.
+- Pada halaman detail buku, admin dapat mengedit buku dan menghapus review member secara langsung.
+- Pada halaman profile diri sendiri, user dapat mengedit/update datanya dan langsung mengedit/delete review yang pernah ia berikan.
+- Terdapat info/kolom tambahan pada tabel view admin pada bagian books, category, members, dan reviews. 
+
 ## 🎬 Video Presentasi
 ![Video Presentasi](https://drive.google.com/drive/folders/18HB29wbadZckalpX4FITUaepVTAMABqt?usp=sharing)
 
