@@ -80,7 +80,7 @@ admin@email.com
 ![Book Search Page](./screenshots/Search.png)
 ![Book Filter Page](./screenshots/Filter.png)
 ![Guest Book Page](./screenshots/Book-Guest.png)
-![Default Profile Page](./screenshots/Profile.png)
+![Default Profile Page](./screenshots/Profile-Guest.png)
 ![User Book Page](./screenshots/Book-User.png)
 ![Reviewed Book Page](./screenshots/Book-User-Reviewed.png)
 ![User Profile Page](./screenshots/Profile-User.png)
