@@ -57,6 +57,8 @@ admin@email.com
 3. 28367 - Stefano Irvinne Iversen
 4. 27923 - Arif Novianto
 ```
+## 🌐 Demo
+Website: <https://lachiseanlibrary.000webhostapp.com/>
 
 ## 🚀 Feature/fungsi tambahan
 - Pada halaman home, terdapat indikasi rating dan jumlah review pada setiap buku.
@@ -70,7 +72,7 @@ admin@email.com
 - Terdapat info/kolom tambahan pada tabel view admin pada bagian books, category, members, dan reviews. 
 
 ## 🎬 Video Presentasi
-![Video Presentasi](https://drive.google.com/drive/folders/18HB29wbadZckalpX4FITUaepVTAMABqt?usp=sharing)
+Vide Presentasi: <https://drive.google.com/drive/folders/18HB29wbadZckalpX4FITUaepVTAMABqt?usp=sharing>
 
 ## 📸 Screenshots
 
