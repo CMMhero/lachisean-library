@@ -708,6 +708,10 @@ select {
 .h-20 {
   height: 5rem;
 }
+.h-23 {
+  height: 23rem;
+  object-fit: cover;
+}
 .h-10 {
   height: 2.5rem;
 }
@@ -889,6 +893,12 @@ select {
 }
 .overflow-hidden {
   overflow: hidden;
+}
+.objectcontain {
+  object-fit: contain;
+}
+.object-scale-down {
+  object-fit: scale-down;
 }
 .fill {
   object-fit: fill;

@@ -124,6 +124,7 @@
                                     <x-label for="rating" :value="__('Rating')" />
                                     <div class="mt-1 w-20">
                                         <select name="rating" id="rating" required class="block mt-1 w-full sm:rounded-lg shadow-sm border-gray-300">
+                                            <option value="5" selected hidden>5</option>
                                             <option value="1">1</option>
                                             <option value="2">2</option>
                                             <option value="3">3</option>

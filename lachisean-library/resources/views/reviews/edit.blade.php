@@ -21,6 +21,7 @@
                                 <x-label for="rating" :value="__('Rating')" />
                                 <div class="mt-1 w-20">
                                     <select name="rating" id="rating" required value="{{ $review->rating }}" class="block mt-1 w-full sm:rounded-lg shadow-sm border-gray-300">
+                                        <option value="{{$review->rating}}" selected hidden>{{$review->rating}}</option>
                                         <option value="1">1</option>
                                         <option value="2">2</option>
                                         <option value="3">3</option>

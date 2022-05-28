@@ -129,7 +129,7 @@
                               <a href="{{ route('books.show', $books[$i]) }}">
                                 <div class="flex-1 bg-gray-800 overflow-hidden shadow sm:rounded-lg w-60">
                                   <div class="flex justify-center">
-                                    <img src="{{ asset('/storage/' . $books[$i]->cover) }}">
+                                    <img src="{{ asset('/storage/' . $books[$i]->cover) }}" class="h-23">
                                   </div>
                                   <div class="p-6">
                                     <p class="block font-semibold text-xl text-white mb-2">{{ $books[$i]->title }}</p>
@@ -157,7 +157,7 @@
                               <a href="{{ route('books.show', $books[$i]) }}">
                                 <div class="flex-1 bg-gray-800 overflow-hidden shadow sm:rounded-lg w-60">
                                   <div class="flex justify-center">
-                                    <img src="{{ asset('/storage/' . $books[$i]->cover) }}">
+                                    <img src="{{ asset('/storage/' . $books[$i]->cover) }}" class="h-23">
                                   </div>
                                   <div class="p-6">
                                     <p class="block font-semibold text-xl text-white mb-2">{{ $books[$i]->title }}</p>
