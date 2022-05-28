@@ -121,7 +121,7 @@ class AdminController extends Controller
         }
         $admin->save();
 
-        return redirect()->back()->with('success', 'Updated admin');
+        return redirect('/admins')->with('success', 'Updated admin');
     }
 
     /**

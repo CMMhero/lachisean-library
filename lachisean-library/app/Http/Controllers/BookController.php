@@ -171,7 +171,7 @@ class BookController extends Controller
             $book->cover = $request->file('cover')->storePublicly('cover', 'public');
         }
         $book->save();
-        return redirect()->back()->with('success', 'Book updated');
+        return redirect('/books/' , $book->id)->with('success', 'Book updated');
     }
 
     /**
