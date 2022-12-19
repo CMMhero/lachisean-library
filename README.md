@@ -49,14 +49,6 @@ admin@email.com
 12345678
 ```
 
-## 👥 Kelompok Lachisean
-
-```
-1. 40107 - Laras Wulandari Agfaningrum
-2. 43324 - Christopher Matthew Marvelio
-3. 28367 - Stefano Irvinne Iversen
-4. 27923 - Arif Novianto
-```
 ## 🌐 Demo
 Website: <https://lachiseanlibrary.000webhostapp.com/>
 
@@ -70,9 +62,6 @@ Website: <https://lachiseanlibrary.000webhostapp.com/>
 - Pada halaman detail buku, admin dapat mengedit buku dan menghapus review member secara langsung.
 - Pada halaman profile diri sendiri, user dapat mengedit/update datanya dan langsung mengedit/delete review yang pernah ia berikan.
 - Terdapat info/kolom tambahan pada tabel view admin pada bagian books, category, members, dan reviews. 
-
-## 🎬 Video Presentasi
-Video Presentasi: <https://drive.google.com/drive/folders/18HB29wbadZckalpX4FITUaepVTAMABqt?usp=sharing>
 
 ## 📸 Screenshots
 
